@@ -1,2 +1,2 @@
-for i in ranges(5):
+for i in range(5):
   print("Hello World")
